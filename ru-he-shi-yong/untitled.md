@@ -1,24 +1,18 @@
 # 使用AppStore分享
 
-> ### 在桌面打开AppStore搜索您想要收集的App
+> 第一步: 手机桌面打开AppStore商城.
 
 ![](../.gitbook/assets/help1.png)
 
+> 第二步：搜索并找到想要收集的App,点击分享菜单.
+
 ![](../.gitbook/assets/help2.png)
 
-> ### 在顶部点击分享菜单，弹出框选择【字节派】。拖动右侧也可以改变出现的顺序。
+> 第三步：弹出框选择更多 ，找到【字节派】点击提交.
 
 ![](../.gitbook/assets/bian-zu-13.png)
 
 ![](../.gitbook/assets/bian-zu-7.png)
-
-
-
-> ### 到此就完成收藏了，回到【字节派】App中您可以看到内容。
-
-\*\*\*\*
-
-\*\*\*\*
 
 \*\*\*\*
 
