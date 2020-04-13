@@ -8,5 +8,7 @@ description: 在App中直接搜索进行收藏
 
 > 左滑选择【收藏】，确定分组就完成收藏了。
 
+![](../.gitbook/assets/app-nei-sou-suo-shou-cang.png)
+
 
 
