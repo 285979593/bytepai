@@ -10,5 +10,5 @@ description: 使用邮箱、AppleID进行注册与登录
 
 > 在其它设备中登录另一台的邮箱账号或使用AppleID登录，会同步账号收藏内容。
 
-
+![](../.gitbook/assets/bang-ding-you-xiang.png)
 
