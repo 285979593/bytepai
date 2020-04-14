@@ -1,4 +1,4 @@
-# 使用AppStore分享
+# 使用AppStore收藏
 
 > 第一步: 手机桌面打开AppStore商城.
 
