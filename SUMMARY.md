@@ -8,5 +8,6 @@
 * [使用AppStore分享](ru-he-shi-yong/untitled.md)
 * [使用桌面3DTouch分享](ru-he-shi-yong/shi-yong-zhuo-mian-3dtouch-fen-xiang.md)
 * [使用搜索分享](ru-he-shi-yong/shi-yong-sou-suo-fen-xiang.md)
+* [搜索技巧](ru-he-shi-yong/sou-suo-ji-qiao.md)
 * [设置漂亮点的界面](ru-he-shi-yong/untitled-1.md)
 
