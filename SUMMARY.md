@@ -11,4 +11,5 @@
 * [使用3DTouch收藏](ru-he-shi-yong/shi-yong-zhuo-mian-3dtouch-fen-xiang.md)
 * [搜索技巧](ru-he-shi-yong/sou-suo-ji-qiao.md)
 * [设置漂亮点的界面](ru-he-shi-yong/untitled-1.md)
+* [专属字节号](zhuan-shu-zi-jie-hao.md)
 
