@@ -14,3 +14,5 @@ description: 您分享的专属地址
 
 ![](../.gitbook/assets/simulator-screen-shot-iphone-11-pro-max-2020-05-03-at-13.00.41.png)
 
+![](../.gitbook/assets/simulator-screen-shot-iphone-11-pro-max-2020-05-03-at-13.04.19.png)
+
