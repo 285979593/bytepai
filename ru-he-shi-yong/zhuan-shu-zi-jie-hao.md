@@ -10,9 +10,7 @@ description: 您分享的专属地址
 >
 > 2、在我的页面点击头像可以更改您的字节号；
 
-![](../.gitbook/assets/simulator-screen-shot-iphone-11-pro-max-2020-05-03-at-13.02.04.png)
+![](../.gitbook/assets/zi-jie-hao-fen-zu.png)
 
-![](../.gitbook/assets/simulator-screen-shot-iphone-11-pro-max-2020-05-03-at-13.00.41.png)
-
-![](../.gitbook/assets/simulator-screen-shot-iphone-11-pro-max-2020-05-03-at-13.04.19.png)
+![](../.gitbook/assets/zi-jie-hao-she-zhi.png)
 
