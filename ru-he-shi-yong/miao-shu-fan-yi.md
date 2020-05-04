@@ -10,5 +10,7 @@ description: 方便查看国外优秀应用的介绍
 
 ![](../.gitbook/assets/trans.png)
 
+![&#x793A;&#x4F8B;&#xFF1A;Notion&#x7B14;&#x8BB0;App&#x7684;&#x63CF;&#x8FF0;](../.gitbook/assets/fan-yi-2.png)
+
 
 
