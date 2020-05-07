@@ -5,6 +5,7 @@
 ## 如何使用
 
 * [注册与登录](ru-he-shi-yong/zhu-ce-yu-deng-lu.md)
+* [应用类型](ru-he-shi-yong/ying-yong-lei-xing.md)
 * [使用搜索收藏](ru-he-shi-yong/shi-yong-sou-suo-fen-xiang.md)
 * [使用AppStore收藏](ru-he-shi-yong/untitled.md)
 * [使用3DTouch收藏](ru-he-shi-yong/shi-yong-zhuo-mian-3dtouch-fen-xiang.md)
