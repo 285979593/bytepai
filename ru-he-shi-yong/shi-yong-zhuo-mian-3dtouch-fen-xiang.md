@@ -1,6 +1,6 @@
 # 使用3DTouch收藏
 
-> 第一步：手机桌面App图标上用力长按，选择**分享App。**
+> 手机桌面App图标上用力长按，选择**分享App。**
 
 ![](../.gitbook/assets/3dtouch_share_1.png)
 
