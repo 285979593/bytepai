@@ -13,4 +13,5 @@
 * [搜索技巧](ru-he-shi-yong/sou-suo-ji-qiao.md)
 * [专属字节号](ru-he-shi-yong/zhuan-shu-zi-jie-hao.md)
 * [设置漂亮点的界面](ru-he-shi-yong/untitled-1.md)
+* [数据安全与隐私](ru-he-shi-yong/shu-ju-an-quan-yu-yin-si.md)
 
