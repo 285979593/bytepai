@@ -14,7 +14,7 @@ _最后更新：2020-06-27_
 
 
 
-#### [Chinese, Simplified](http://www.bytepai.com/_book/)   [Chinese,traditional](https://translate.google.cn/#view=home&op=translate&sl=zh-CN&tl=zh-TW&text=https%3A%2F%2Fwww.bytepai.com%2F_book%2F)   [English](https://translate.google.com.hk/translate?sl=zh-CN&tl=en&u=https://www.bytepai.com/_book/)  [Japanese](https://translate.google.com.hk/translate?sl=zh-CN&tl=ja&u=https://www.bytepai.com/_book/)   [Korean](https://translate.google.com.hk/translate?sl=zh-CN&tl=ko&u=https://www.bytepai.com/_book/)
+####   [English](https://translate.google.cn/translate?sl=zh-CN&tl=en&u=https://www.bytepai.com/_book/)  [Japanese](https://translate.google.cn/translate?sl=zh-CN&tl=ja&u=https://www.bytepai.com/_book/)   [Korean](https://translate.google.cn/translate?sl=zh-CN&tl=ko&u=https://www.bytepai.com/_book/)
 
 #### 
 
